@@ -43,8 +43,8 @@ GIT_TOKEN = getenv(
 API_KEY = getenv("API_KEY","StrangerApia3075f5")
 API_BASE_URL = getenv("API_BASE_URL", "http://riyabots.site")
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+c8WKPZa4455lMzRk")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+c8WKPZa4455lMzRk")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+JgR_-MNyj5hkZmU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+JgR_-MNyj5hkZmU1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
